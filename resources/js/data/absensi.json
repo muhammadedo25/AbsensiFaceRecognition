@@ -1,0 +1,11 @@
+[
+    { "value": "attend", "label": "Masuk" },
+    { "value": "sick", "label": "Sakit" },
+    { "value": "leave", "label": "Cuti" },
+    { "value": "permit", "label": "Izin" },
+    { "value": "trusiness_trip", "label": "Perjalanan Dinas" },
+    {
+        "value": "remote",
+        "label": "Kerja Remote (Di Luar Kantor)"
+    }
+]
